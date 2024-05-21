@@ -1,7 +1,7 @@
 require('dotenv').config();
  
 const Hapi = require('@hapi/hapi');
-const routes = require('./routes');
+const routes = require('../server/routes');
 const loadModel = require('../services/loadModel');
 const InputError = require('../exceptions/inputError');
  
@@ -27,7 +27,7 @@ const InputError = require('../exceptions/inputError');
         if (response instanceof InputError) {
             const newResponse = h.response({
                 status: 'fail',
-                message: `${response.message} Silakan gunakan foto lain.`
+                message: `Terjadi kesalahan dalam melakukan prediksi`
             })
             newResponse.code(response.statusCode)
             return newResponse;
