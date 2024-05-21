@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "submissionmlgc-fauzan-424001",
+  "private_key_id": "52c6b299a08bfe366ebcbce87dafd0fc37307eaf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsUTFjvNGhJG9T\nEMOJCbpcR9ULxGP8c2r6IDR6EnVMvoJd9K/zYT5mB6ZiBnb+sQzW5SGKfKaNkKJe\nove2Y3NhF1RUN1cuZeIjW4zCov7aPdBnLupTkFTTJeCqbAWqS+MyF79f5rE2tJrg\nqlrkja3ftL0G2MX1cHdXZkMZOu/hJRk6uFodNL4h2H3pvi7ozUCP21xPipDiGH4l\noPVEU+BbopFJg832QIqVCX9i15hI5pFb0EgFbDdSKNaBrA4n81ZFC3Dnp0GODY/h\novoTDaEvKeitPYqxfbPjIOY72fOUJaqzeHtmMcatXQureVie6PUHR9yAdRom/sAQ\nxIP/oo2jAgMBAAECggEAGktCvmsNOzSZvtLGXj6GGcIQR/0OG3M/4K5SCPU7bEbU\nZ80y8sVk8Ha8XyWIujEpZLqOqq4opV4WQ1tEx1JXmc97MQ/yFVoQmWqaiQdhh3XP\n5jQqJ4QqSBSgkADEazRXP8k7N5a2de2LMJBuJtquVyjM1fhKr2Vw9dIx7O3/Cptj\n4LbbGgkvKG8XrEJQz05/Y7zpMFj5RgZiElKlYn9RSuYnDixxeji/VlsT8V/JhUMr\nDqYfO1FcpKvCfuICd9u9uOT/by99gcK1eisOgsUnyqvbRFkv06FO1dzJoxBkNtow\njQ9uHcMGo2cR3v70Obbhe7Q36ZmIU6YxVymxI7fKoQKBgQDnH+7g3fFh1w71L9t5\naxEHOwnGJXHiDtsooeTxHj34p2rdV29tsoyD2LqePKIHAbiM3mEdr5FCUiSzmUKJ\n0YVyMnJE3S1RW7eEarmLGhzOJktmXK44rRhGO0ve1BKZzPYH4feEXYxhPbNKCEyv\nITK/yA/El7YNpUC9ngCjNn++UwKBgQC+3PaeP8sbmrW8E9mNHSirckABkDUOdH9V\nryqWHrZMM1/NBkGKt2fWZKm/sliMElWCQ2V5kg7OCY3oHaMOCe8D5Kev1nPG2Psl\nCFxu3a15xlzx3tqYLjr0urm129yQtSU5UWFp7SYh9FNK48qLHQVjvuGT/i2uhOc5\nddYSQiLpcQKBgQCtayJ8C0wQ06Lfihct1Y4jVMMSsAnxSqBaro7v9HcfWc8vYWm0\nb6JLU5VDIc+ZXksxN7K66X8eui/bqoVoj5OHih5/WU2lnCHo84NgwikW7Vjp52S6\nFfb+y4M0IQAL8uQwKfbklKS+WeNrCysuxMQlbmGWaxcoyfP30tQ7oqrbDQKBgDhD\nPLPDjGTzwzTRCSVu/gkkIbgUQX+kWdDxVPVx0j0+O7Rdbr6seACcJenrcezAjtJa\nebRPmOulp15QNjuyM/IK2l+cMP7iAY6WG2FXGYc3MTjff8KyhhCUZqA0Up2ZuIJf\n+f5WuRHzSwZdhdxiTq9rmmWc3OyAIwUuNk+ljVMRAoGAY7XHg/r08+CV9+cpHd3N\nIFJDv0OI/9JkgmySB8iuUAlSOg2snO3zIxme326qUBkNOzYdo29eeDEpHfF4VCm/\nqfvnCGdxZg3YBFwhOIPsZfG8iL91QtjI54S/zX8QGFGVMw6i3axigWrXFmBxJ6rG\nRXr4Sqyg+WuT5wUZvawm7pk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "submissionmlgc-fauzan@submissionmlgc-fauzan-424001.iam.gserviceaccount.com",
+  "client_id": "110453904562098297054",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/submissionmlgc-fauzan%40submissionmlgc-fauzan-424001.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
